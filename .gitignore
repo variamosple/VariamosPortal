@@ -20,6 +20,7 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+/.env
 
 # Configuration
 wp-config.php
