@@ -21,6 +21,7 @@
 /wp-*.php
 /xmlrpc.php
 /.env
+/backupdb
 
 # Configuration
 wp-config.php
