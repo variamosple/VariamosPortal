@@ -16,6 +16,7 @@
 /readme.html
 /wp-*.php
 /xmlrpc.php
+/wwwroot/wp-content/plugins
 
 # Configuration
 wp-config.php
