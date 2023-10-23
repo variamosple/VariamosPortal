@@ -6,17 +6,20 @@
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
 /wp-admin/
+/wwwroot/wp-admin/
 /wp-content/index.php
 /wp-content/languages
+/wwwroot/wp-content/languages
 /wp-content/plugins/index.php
+/wwwroot/wp-content/plugins/
 /wp-content/themes/index.php
 /wp-includes/
+/wwwroot/wp-includes/
 /index.php
 /license.txt
 /readme.html
 /wp-*.php
 /xmlrpc.php
-/wwwroot/wp-content/plugins/
 
 # Configuration
 wp-config.php
